@@ -1,0 +1,612 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tree of Christian faith: being a true information, how a man may be one spirit with God, and what man must do to perform the works of God: in which is comprehended (compendiously) the whole Christian doctrine and faith. Item, what faith and doctrine is: an open gate of the great mystery of God out of the divine Magia, through the three principles of the divine being. / Written in High Dutch by Jacob Behmen.</title>
+            <title>Baum des christlichen Glaubens. English</title>
+            <author>Böhme, Jakob, 1575-1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76959</idno>
+            <idno type="STC">Wing B3424</idno>
+            <idno type="STC">Thomason E808_8</idno>
+            <idno type="STC">ESTC R207521</idno>
+            <idno type="EEBO-CITATION">99866566</idno>
+            <idno type="PROQUEST">99866566</idno>
+            <idno type="VID">118842</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118842)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E808[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tree of Christian faith: being a true information, how a man may be one spirit with God, and what man must do to perform the works of God: in which is comprehended (compendiously) the whole Christian doctrine and faith. Item, what faith and doctrine is: an open gate of the great mystery of God out of the divine Magia, through the three principles of the divine being. / Written in High Dutch by Jacob Behmen.</title>
+                  <title>Baum des christlichen Glaubens. English</title>
+                  <author>Böhme, Jakob, 1575-1624.</author>
+                  <author>Sparrow, John, 1615-1665?</author>
+               </titleStmt>
+               <extent>56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.CX.L.IV. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, probably by John Sparrow, of: Böhme, Jakob.  Baum des christlichen Glaubens.</note>
+                  <note>Annotation on Thomason copy: "Aug: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Mysticism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118842:1" rendition="simple:additions"/>
+            <p>THE TREE OF Chriſtian Faith: BEING A True Information, how a Man may be one Spirit with God, and what Man muſt do to perform the works of God: In which is comprehended (compendiouſly) the whole Chriſtian Doctrine and Faith.</p>
+            <p>
+               <hi>ITEM,</hi> What Faith and Doctrine is: An open Gate of the Great Myſtery of GOD out of the Divine <hi>Magia,</hi> through the Three Prin<g ref="char:EOLhyphen"/>ciples of the Divine Being.</p>
+            <p>Written in High Dutch by <hi>JACOB BEHMEN.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by JOHN MACOCK, M.CX.L.IV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118842:2"/>
+            <pb n="3" facs="tcp:118842:2"/>
+            <head>The Tree of the Chriſtian Faith.</head>
+            <div n="1" type="chapter">
+               <head>Chapter the Firſt.</head>
+               <p n="1">CHriſt ſaith, <hi>Mat.</hi> 6.33. <hi>But firſt ſeek the King<g ref="char:EOLhyphen"/>dom of God, and his Righteouſneſs, and all theſe things ſhall be added unto you.</hi>
+               </p>
+               <p n="2">2. Item, <hi>My Father, will give the Holy Ghoſt to thoſe that ask him; when he cometh, then will he lead you into all truth; he will put you in mind of all what I have told you of.</hi>
+               </p>
+               <p n="3">3. For he will take it of me, and inform you of it; he will give you ſpeech, and wiſdom what you are to ſpeak.</p>
+               <p n="4">4. And S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> ſaith, <hi>We do not know what we ſhall pray or ſpeak, but the Spirit of God intercedeth powerful<g ref="char:EOLhyphen"/>ly according to the pleaſure of God.</hi>
+               </p>
+               <p n="5">5. Now Faith is not an hiſtorical knowledg; that a man ſhould ſet down Articles unto himſelf, and depend only upon them, and ſo force his mind into the works of his Reaſon: But Faith is a Spirit with God; for the Holy Ghoſt goeth into the ſpi<g ref="char:EOLhyphen"/>rit of Faith.</p>
+               <pb n="4" facs="tcp:118842:3"/>
+               <p n="6">6. True Faith is a Power of God, a Spirit with God; it worketh in God, and with God.</p>
+               <p n="7">7. It is free, and not bound to any Article, but only to true Love, from whence it fetcheth the power of its life and ſtrength; and the opinions of men are of no conſequence.</p>
+               <p n="8">8. For as God is free from all inclination, he doth what he pleaſeth, and is not accountable for it; ſo true Faith alſo is free in Gods Spirit, It hath but one Inclination, <hi>viz.</hi> unto the Love and Mercy of God, to caſt its will into the Will of God; and it goeth forth out of the ſtarry (ſydereal) and elemen<g ref="char:EOLhyphen"/>tal Reaſon.</p>
+               <p n="9">9. It doth not ſeek it ſelf in fleſhly Reaſon, but in Gods Love; and if it doth ſo, it findeth it ſelf, and then it findeth it ſelf in God, and worketh with God, not according to Reaſon, what ſhe pleaſeth to have; but in God, what the Spirit of God willeth.</p>
+               <p n="10">10. For Faith eſteemeth not the earthly life, that ſo it may live in God, and the Spirit of God be in it, the will and the deed; It ſubmitteth in all hu<g ref="char:EOLhyphen"/>mility unto Gods Will, and ſinketh down with Reaſon into Death, but ſpringeth up with Gods Spirit in the Life of God; It is as if it were not, and yet it is in God in All.</p>
+               <p n="11">11. It is a Crown and Ornament of the Deity, a Wonder in the divine <hi>Magia;</hi> It maketh ſome<g ref="char:EOLhyphen"/>thing where there is nothing, and taketh ſomething where nothing is made; It worketh, and no body ſeeth its Being.</p>
+               <p n="12">12. It exalteth it ſelf, and yet hath no need of any aſcending; it is of a mighty Power, and yet it
+<pb n="5" facs="tcp:118842:3"/>is the lowlieſt Humility; It hath all, and yet com<g ref="char:EOLhyphen"/>prehendeth no more then Meekneſs: thus it is free from all Malice.</p>
+               <p n="13">13. And it hath no Law, for the fury of Nature toucheth it not; it holdeth or ſubſiſteth in Eterni<g ref="char:EOLhyphen"/>ty, becauſe it is not comprehended in any ground; it is not ſhut up in any thing.</p>
+               <p n="14">14. Even as the Abyſs of Eternity is free, and reſteth no where but only in it ſelf, where there is an eternal Meekneſs; even ſo doth true Faith in the Abyſs.</p>
+               <p n="15">15. It is in it ſelf a Being (the Being,) it liveth, but ſeeketh not its life, but it ſeeketh the life of the eternal ſtill Reſt; it goeth out of the ſpirit of its life, and poſſeſſeth it ſelf.</p>
+               <p n="16">16. Thus is it free from Torment, and dwelleth in the eternal Freedom of God.</p>
+               <p n="17">17. It is with the eternal Freedom of God as a nothing, and yet it is in all; all comes well to paſs to it, what God and Eternity hath in his power; It is comprehended of nothing, and yet it is a fair ha<g ref="char:EOLhyphen"/>bitation in the great Power of God.</p>
+               <p n="18">18. It is a Being, yet is it not comprehended of any Being; it is a companion and friend to the di<g ref="char:EOLhyphen"/>vine Virgin of Gods Wiſdom; in it ſtands the great Wonders of God, and yet it is free of all.</p>
+               <p n="19">19. Even as the light is free from the fire, and yet is continually begotten of the fire, and yet it can neither touch nor move the quality of the fire; ſo in like manner we give you to underſtand, that Faith is begotten out of the Spirit of Life, as out of an ever-burning fire, and ſhineth in that fire; and filleth the fire of life, and yet is never compre<g ref="char:EOLhyphen"/>hended.</p>
+               <pb n="6" facs="tcp:118842:4"/>
+               <p n="20">20. But if it be comprehended, then it ſelf is entered into Reaſon, as into a priſon, and is no more in the Freedom of God (Gods Freedom,) but it is entered into (pain) torment.</p>
+               <p n="21">21. It tormenteth it ſelf, whereas it might be at liberty: it worketh in Reaſon, the Wonders in the Fire of Nature; and in the Freedom, it worketh the Wonders of God.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>The Second Chapter.</head>
+               <p n="1">1. NOw ſeeing Faith is thus, <hi>viz.</hi> one Spirit with God, we are then to conſider its Original; For we cannot ſay it is a Form or Image of Reaſon, but it is the Image of God, it is Gods Similitude and eternal Form.</p>
+               <p n="2">2. And yet during the time of this life, it may break it ſelf, or be changed into an Anguiſh qua<g ref="char:EOLhyphen"/>lity.</p>
+               <p n="3">3. For it is in its own Being in the Original meerly a naked Will, and the ſame Will is a Seed, which the ſpirit of the Fire (the Soul) muſt ſow into the Freedom of God.</p>
+               <p n="4">4. Then there groweth a ſeed out of that Tree, upon which the Soul feedeth, and mitigateth her fire-life, that ſhe becomes powerful, and giveth ſtrength to the root of this Tree, whereby the Tree groweth in the Spirit of God, and ſpringeth up in Gods Paradiſe.</p>
+               <p n="5">5. And though it be ſo, that in this we might be
+<pb n="7" facs="tcp:118842:4"/>dumb and ignorant, for Reaſon would fain com<g ref="char:EOLhyphen"/>prehend and know all, therefore we will hold it forth clearly to the light, why Faith and Doubt are one by another, and are as it were chained together, ſo that there is a vehement ſtrife in man all his time ſo long, as he is a gueſt in the cottage of this earthly life.</p>
+               <p n="6">6. Unleſs he ſink ſo much in himſelf, that he can bring the Fire of Life into the Freedom of God; Then he is as it were dead in Reaſons-life (or in the life of Reaſon,) and if he liveth, he liveth to God.</p>
+               <p n="7">7. Which indeed is a moſt precious dear life in a man, and is ſeldom or rarely found in any, for it is like unto the firſt Image which God did create.</p>
+               <p n="8">8. And although the mortal part ſticketh unto him, yet it is as it were dead, juſt as if a dead image ſtuck unto him which belongs unto the corruption (breaking) in which the true man doth not live.</p>
+               <p n="9">9. For the true Life ſtandeth turned, and is in another World in another Principle, and liveth in another quality (or ſource.)</p>
+               <p n="10">10. Therefore underſtand us now in this way; You ſee and know the original of mans life, how the ſame exiſteth in the Mothers womb, and you ſee alſo wherein it doth qualifie and moveth, as chiefly in four forms, <hi>viz.</hi> in Fire, Ayr, Water, and Earth.</p>
+               <p n="11">11. And though it ſtandeth therein thus, yet is it no more in it then an animal life, for he receives his Reaſon from the Stars; and it is found, that the Sun and the Stars make a Tincture in the four Ele<g ref="char:EOLhyphen"/>ments, from whence comes Reaſon and qualifica<g ref="char:EOLhyphen"/>tion, luſt and unluſtineſs, or indiſpoſedneſs.</p>
+               <pb n="8" facs="tcp:118842:5"/>
+               <p n="12">12. And is yet far from the true humane life; for this Reaſon ſeeketh no further, but her ſelf in her Wonders.</p>
+               <p n="13">13. Yet in man it is a deſire, and a great longing after a higher, better and eternal life, in which there is no ſuch quality.</p>
+               <p n="14">14. Though Reaſon doth neither comprehend nor ſee it, yet there lieth a Myſtery in Reaſon, which taſteth and knoweth from whence exiſteth the lan<g ref="char:EOLhyphen"/>guor or gnawing.</p>
+               <p n="15">15. Whereby we know that the ſame Myſtery was implanted, alſo in or at the firſt Creation, and is mans propriety; and we find it thus, that it ſtand<g ref="char:EOLhyphen"/>eth in a deſire or longing, as in a Magical groaning.</p>
+               <p n="16">16. Moreover we find, that we are in a ſtrange lodging, with the ſame Myſtery; that the ſame Myſtery doth not ſtand in the ſpirit of this world, for it comprehends it not, neither does it find it.</p>
+               <p n="17">17. Here we know the heavy Fall of <hi>Adam;</hi> for we find that Myſtery in the will of the mind, that it is a hidden Spring (or Fountain,) which openeth it ſelf in another Principle.</p>
+               <p n="18">18. We underſtand alſo, how that Myſtery ſtandeth hidden in the Anguiſh-quality, and open<g ref="char:EOLhyphen"/>eth it ſelf through the anguiſh of the Will.</p>
+               <p n="19">19. And then, thirdly, we find, how the ſame <hi>Myſterium</hi> is held impriſoned by the Spirit of this World.</p>
+               <p n="20">20. And how the Reaſon of the external life hath power to enter into it, and to corrupt it, where<g ref="char:EOLhyphen"/>by that Myſtery cannot come into the light, be<g ref="char:EOLhyphen"/>cauſe it doth hide it, that the Genetrix may not bring forth her fruit, and ſo lies hid as a Myſtery.</p>
+               <pb n="9" facs="tcp:118842:5"/>
+               <p n="21">21. And if the Body dyeth, then the will hath not another which might reveal the Myſtery, there<g ref="char:EOLhyphen"/>fore the Spirit of the Fire, or of the Soul, abideth in darkneſs, and the Myſtery ſtands hid in him eter<g ref="char:EOLhyphen"/>nally as in a Myſtery.</p>
+               <p n="22">22. Thus we know the Myſterie to be Gods Kingdom, which ſtands hid in the Soul, which gives a Luſt and Deſire to the Soul that it imagin<g ref="char:EOLhyphen"/>eth into that Myſtery.</p>
+               <p n="23">23. Where ſhe is magically impregnated in the ſame Myſtery, from whence ariſeth a Will unto her to go out of the life of the Fire into Gods Myſtery.</p>
+               <p n="24">24. And if it ſo come to paſs, that ſhe lifteth up the Will, and caſteth the ſame into the Myſtery, then is the Will impregnated with the Myſtery.</p>
+               <p n="25">25. For the Will is longing, and getteth the bo<g ref="char:EOLhyphen"/>dy of the Myſtery, as the Being of the Myſtery, which is Gods Being, which is incomprehenſible unto Nature; Thus the Will of God doth attract the ſimilitude or image.</p>
+               <p n="26">26. Now if the Will be begotten out of the Souls fire, then it ſtandeth alſo with its Root in the Soul, and there is no Diviſion betwixt the Will and the Soul, but the Will becomes a Spirit with God, and becomes the Garment of the Soul, ſo that the Soul is hid in the Will in God.</p>
+               <p n="27">27. And although ſhe dwells in the Body, yet is ſhe encompaſſed with her Will, and is hid in God; and thus is ſhe in the Will (which is the true earneſt Faith) a Child of God, and dwells in another world.</p>
+               <p n="28">28. This is not to be taken for an Hiſtorical Will, where Reaſon knoweth, that there is a deſire
+<pb n="10" facs="tcp:118842:6"/>after God in her, but keeps that Deſire impriſoned, in wickedneſs, that the Will cannot go out of the Soul, and enter into Life, or Gods Myſtery, but cauſeth opinions, and ſetteth the Will into a Fancy.</p>
+               <p n="29">29. Where the Will is not able to reach the My<g ref="char:EOLhyphen"/>ſtery of God, and thus abideth in the Fancy, or quite bid in the Soul, ſo to be judged at a future time, where Reaſon holdeth the Will impriſoned in the Fleſh, groaning in the ſyderial <hi>Magia,</hi> and ſtill ſaith, To morrow ſhalt thou go forth and ſeek the Myſtery of God.</p>
+               <p n="30">30. There is truly no ſelf-power of finding, he that thinketh ſo is deceived: neither is there any liberty in any Fancy where the Will might enter and ſee God, that Reaſon durſt imagine to make or to do any thing, and ſo to pleaſe God thereby.</p>
+               <p n="31">31. For there is not any way which is more di<g ref="char:EOLhyphen"/>rect then to go with the Will out of Reaſon, and not to ſeek it ſelf, but Gods Love, and to caſt himſelf wholly into Gods Will, and to let alone all what Reaſon can object.</p>
+               <p n="32">32. And though they were great ſins and crimes committed into which the Body was entered, only paſs them over with the Will, and eſteem Gods Love more highly then the filth of ſins.</p>
+               <p n="33">33. For God does not accept of ſins, but he re<g ref="char:EOLhyphen"/>gardeth and accepteth the obedient Free-will, he ſuffers not ſin to come unto him.</p>
+               <p n="34">34. But an humble Will, which goes out from the houſe of ſin, and refuſeth ſins, and ſinketh him<g ref="char:EOLhyphen"/>ſelf beyond Reaſon into his Love as an obedient humble Child, that he receiveth, becauſe it is pure.</p>
+               <p n="35">35. But whileſt it ſtands in the Fancy, then is it
+<pb n="11" facs="tcp:118842:6"/>encompaſſed with the Fancy, and is not free.</p>
+               <p n="36">36. Now as God is free in himſelf from Malice, ſo muſt the Will alſo be free, then is it Gods Simi<g ref="char:EOLhyphen"/>litude, Image and Property; for that which com<g ref="char:EOLhyphen"/>eth unto him into his Freedom, he will not turn it out, as Chriſt teacheth us.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>The Third Chapter.</head>
+               <p n="1">1. UNderſtand us now further in the way; We know, and the holy Scripture alſo ſpeaketh of it, and it is diſcernable alſo as well in the light of Nature as in all other Beings, That all things deſcend from the eternal Being, Good and Bad, Love and Anger, Life and Death, Joy and Miſery.</p>
+               <p n="2">2. Now we cannot ſay for all that therefore that the evil and death cometh from God, for in God there is no evil nor death, and in all Eternity there comes no evil to him.</p>
+               <p n="3">3. But the Fury deſcends out of the Fire of Na<g ref="char:EOLhyphen"/>ture, where Life ſtandeth as in a <hi>Magia,</hi> where the one form deſireth and exciteth the other, from whence ariſe the eſſences of Plurality; out of which are born the Wonders in which Eternity reveals her ſelf in ſimilitudes.</p>
+               <p n="4">4. And yet we muſt needs ſay, that there is a deſire in Gods Will, which cauſeth the <hi>Magia,</hi> out of which exiſteth Multiplicity.</p>
+               <p n="5">5. And yet this Multiplicity is not the Will of God it ſelf (which is free from all Being;) But in
+<pb n="12" facs="tcp:118842:7"/>the groaning of the Will, Nature begetteth her ſelf with all the Forms; ſo then, every thing exiſteth out of the Deſire, as out of the eternal <hi>Magia.</hi>
+               </p>
+               <p n="6">6. And we muſt further know, that whatſoever getteth Life (which imagineth into Longing, and ſetteth his Will into Nature) is the Child of Na<g ref="char:EOLhyphen"/>ture, and a Life with Nature.</p>
+               <p n="7">7. But whatſoever goeth out of Natures longing (groaning) into the free Will of God, the ſame is received and owned by the free Will, and is a Spi<g ref="char:EOLhyphen"/>rit in God.</p>
+               <p n="8">8. And though it be of Nature, as Nature from Eternity ſtill begetteth her ſelf in Gods will, yet is his Life-ſpirit without Nature in the Free will; and thus the Wonders ſtand in God revealed, and yet are not in God himſelf.</p>
+               <p n="9">9. And if the ſpirit of the will of the Soul goeth out of the Reaſon of Nature into the free will of God, then that ſpirit of the Will is the Child of God, and the Spirit of Nature is Gods Wonder, and the creature ſtandeth turned into her ſelf, as God himſelf.</p>
+               <p n="10">10. For the ſydereal or rational Spirit ſeeketh in his <hi>Magia</hi> in himſelf in his Center the Wonders of Eternity, to which end God hath created the Soul in the Body of the external Nature, though they be comprehended only in the internal.</p>
+               <p n="11">11. And the ſpirit of the Will goeth into the Freedom of God, where the holy Spirit leads him into the divine free Myſtery; ſo that the Deity ſtandeth revealed in the ſpirit of the Will, and in the rational Spirit ſtandeth the <hi>Magia</hi> of Nature revealed with her Wonders.</p>
+               <pb n="13" facs="tcp:118842:7"/>
+               <p n="12">12. Now if the Soul be the Center, where the true ſpirit of the Will goeth out toward the Free<g ref="char:EOLhyphen"/>dom of God into the Fredom of God, as into the Divine, then hath ſhe the ſydereal Spirit bound up.</p>
+               <p n="13">13. And if ſhe tameth him, that he do not work wickedneſs, ſhe may bring the ſydereal Wonders, which in the Elemental Mirror are made into a Subſtance, before the Majeſty of God, into the free will of God; ſo that the Wonders appear in the Divine Freedom, as a Similitude of the Will of God.</p>
+               <p n="14">14. Yet not to be underſtood (thus) as if the Freedom of God doth mingle with the Wonders of Nature, and with the Similitude to be one; No, God abideth free eternally.</p>
+               <p n="15">15. He dwelleth in the Wonders, as the Soul doth in the Body; as little as the Body compre<g ref="char:EOLhyphen"/>hendeth the Soul, or the Fire the Light, even as little comprehendeth Nature the Deity.</p>
+               <p n="16">16. And yet is one Being, and is ſeparated into two Beings from Eternity, even as the Fire and the Light.</p>
+               <p n="17">17. Where we underſtand by the Fire the life of Nature, and by the Light the Myſtery, the Spirit of Life without qualm or pain, though the Fire be alſo a Myſtery.</p>
+               <p n="18">18. Thus, underſtand us, is Mans condition; The Soul is the fire of the true humane life, which God breathed forth out of the eternal Nature in <hi>Adam,</hi> with his Spirit, as out of the Center of God.</p>
+               <p n="19">19. And the Spirit which was born out of the
+<pb n="14" facs="tcp:118842:8"/>Souls fire, formeth Gods Spirit into his Image; he hath the Divine Myſtery out of which the Will to<g ref="char:EOLhyphen"/>wards Gods Love is begotten, from whence exiſt<g ref="char:EOLhyphen"/>eth the Divine <hi>Magia</hi> or Longing, that the ſpirit of the will is deſirous of God.</p>
+               <p n="20">20. Now if he doth elevate himſelf (that is, go<g ref="char:EOLhyphen"/>eth out of the hidden Myſtery into the Freedom of God) there is he a twig or branch in Gods King<g ref="char:EOLhyphen"/>dom, ſprung up out of Gods Myſtery, and worketh into Gods Will, and revealeth ſtill the Wonders in Gods Kingdom.</p>
+               <p n="21">21. Not ſo as if any new thing were begotten in God which had not been from Eternity, which hath neither ground nor end.</p>
+               <p n="22">22. Only in the Souls ſpirit, the eternal infinite Myſtery is revealed in its ſelf, to Gods honour, and wondrous Deed, and to his own, namely, to the creatures own or ſelf eternal joy.</p>
+               <p n="23">23. Now, whereas the earthly corrupted Long<g ref="char:EOLhyphen"/>ing mingleth it ſelf with the Aſtral quality, and the Soul at the heavy Fall of <hi>Adam</hi> hath imagined with her Will into the Aſtral Longing, as alſo into the earthly, and hath brought into her ſelf the ſtrange <hi>Magia,</hi> then the Will was begotten, and the divine Image was deſtroyed.</p>
+               <p n="24">24. And the heavenly divine Image of Man became earthly; ſo that the true Will ſtandeth turned upſide downward, as into the ſpirit of this world, as into the Reaſon, which is born out of the ſtars.</p>
+               <p n="25">25. Now, the true Image of God (which was thus deſtroyed, and is become earthly) hath need to be new born again.</p>
+               <pb n="15" facs="tcp:118842:8"/>
+               <p n="26">26. And there had not been found any Remedy to help this Image, if the Word out of Gods Cen<g ref="char:EOLhyphen"/>ter (as Gods own Life) had not aſſumed Humanity, and had not the poor ſoul, whoſe Image was now corrupted, been new born again in him: Here the true Image was reſtored again, elſe ſhe had been bereaved eternally of the Freedom and Majeſty of God.</p>
+               <p n="27">27. Seeing all ſouls are deſcended from one, therefore are they all born out of one corrupted Root; and the new regenerated Life is returned a<g ref="char:EOLhyphen"/>gain into the ſoul of Chriſt, therefore is it required of us to caſt all our wills into Chriſts Regenera<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="28">28. For in Chriſt are we born again in God with our ſouls, and in Chriſt have we gotten again the Image.</p>
+               <p n="29">29. For our Myſtery in the Soul ſtood meerly in the <hi>Magia</hi> of Nature, which in her Center is a fire, and the Image was turned out of Gods Freedom into the outer <hi>Magia,</hi> as into the external principle (of this world.)</p>
+               <p n="30">30. Now if that breaketh in the Being, then the poor corrupted Image of the Soul ſtandeth meerly as a loſt Child, where in her own Center ſhe can ſtir up nothing but the furious fiery quality, for ſhe is gone out of Gods Word into a corruptible Mirror, as into the ſpirit of this world, which hath a begin<g ref="char:EOLhyphen"/>ing and an end.</p>
+               <p n="31">31. Therefore the body of the ſoul is become wholly earthly, and is fallen home into corruptible<g ref="char:EOLhyphen"/>neſs and death.</p>
+               <p n="32">32. Therefore it is requiſite for us (becauſe God
+<pb n="16" facs="tcp:118842:9"/>hath graciouſly turned his Love to us, and hath turned our ſouls again in him) in Chriſt, into the Freedom, and made the divine Myſtery in the Image moving; ſo that the Image can dwell again in God (as in the Wonders of Paradiſe) that we break off our will from the external Centre, as from the cor<g ref="char:EOLhyphen"/>ruptible life, and bring it into the free will of God.</p>
+               <p n="33">33. And hereunto belongeth not an hiſtorical knowledg for one to ſay, <hi>I beleeve,</hi> that is, I know it, or I deſire it, and yet abideth with the will in the external principle, as ſtanding in the outward in<g ref="char:EOLhyphen"/>fection.</p>
+               <p n="34">34. No, it is ſaid, <hi>You muſt be new born through water and the holy Spirit, elſe you cannot ſee the King<g ref="char:EOLhyphen"/>dom of God.</hi>
+               </p>
+               <p n="35">35. An earneſtneſs is required here, the will of Reaſon muſt be broken, there muſt be a living mo<g ref="char:EOLhyphen"/>tion of the will, which breaketh through Reaſon, and fighteth againſt Reaſon.</p>
+               <p n="36">36. And though it be not eaſie for the ſoul to do it (being mightily corrupted,) yet is there no better Remedy for her, then to make her ſelf Dead in her Reaſon and ſenſes, and ſo to unite meerly with Gods Mercy, and yeild her ſelf unto it, that no more room be left; for Reaſon muſt be compelled.</p>
+               <p n="37">37. And if the Will thus beateth down Reaſon, then is ſhe as it were dead though ſhe be alive, and ſhe becomes ſervant to the true Will, or elſe ſhe will be Maſter without him.</p>
+               <p n="38">38. For Gods Will muſt be the Maſter over Reaſon, if ſo be that Reaſon ſhall do ſome things that are good and ſtand before God.</p>
+               <pb n="17" facs="tcp:118842:9"/>
+               <p n="39">39. For nothing ſubſiſteth before God, unleſs it be born in Gods will.</p>
+               <p n="40">40. But if the will turneth into good, then the ſpirit of the will becomes to be Gods Child.</p>
+               <p n="41">41. And the Wonders alſo ſtand before God, which are made by Reaſons ſpirit, for they are made in the Will of God, and are tranſplanted from the beginning unto the Eternity.</p>
+               <p n="42">42. And although we cannot ſay, that our works are to laſt for ever, yet their ſhadow or image abi<g ref="char:EOLhyphen"/>deth, and yet they abide really in the Being, but in the Myſtery, as in the Divine <hi>Magia</hi> before Gods Wiſdom.</p>
+               <p n="43">43. Wherein only the external Principle break<g ref="char:EOLhyphen"/>eth, as the external Government in the four Ele<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="44">44. And thoſe four are ſet again into one, where all the Colours and Forms of the four Elements are known, with whatſoever is born therein.</p>
+               <p n="45">45. Therefore hath God appointed in Nature a final day of ſeparation, where all muſt be approved through fire, what is born in Gods Will or no, that each principle muſt make harveſt of its own.</p>
+               <p n="46">46. And there is many a one will leave much of his works in the fire, becauſe they are not born in Gods Will, for into God no unclean thing en<g ref="char:EOLhyphen"/>tereth.</p>
+               <p n="47">47. But whatſoever is born out of another <hi>Ma<g ref="char:EOLhyphen"/>gia</hi> is impure, the Earth is an example unto us of that which is corrupted.</p>
+               <p n="48">48. Do you ask why? The Devil ſat with his Legions in the place of this Worlds Creation, where indeed he was created an Angel in the <hi>Sulphur,</hi> or
+<pb n="18" facs="tcp:118842:10"/>in the Center of Nature, out of which afterwards the Earth was created, he hath excited the Fury in Nature.</p>
+               <p n="49">49. So that the Earth hath an evil, impure ſick<g ref="char:EOLhyphen"/>neſs, although ſhe be incloſed in death, and reſerved for putrefaction.</p>
+               <p n="50">50. Where ſhe muſt be approved in the eternal Fire, and return unto that which ſhe was before the Creation, as to the eternal <hi>Magia</hi> of the eternal Nature.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>The Fourth Chapter.</head>
+               <p n="1">1. SEeing all is incloſed in Gods Will, which is born out of Nature, and we underſtand it thus, that nothing can enter into Gods Will unleſs it be firſt made or born in Gods Will.</p>
+               <p n="2">2. Therefore we underſtand plainly, that it is re<g ref="char:EOLhyphen"/>quiſite for us, that we ſubmit our ſelves wholly with our Reaſon and ſenſes unto the Will of God; and ſo work with our hands in the world to provide food for the belly, but not to ſet our will unto it, as to eſteem any earthly thing for our Treaſure.</p>
+               <p n="3">3. For where our will and heart is, there is our treaſure alſo: if our will be in Gods Will, then have we the great Myſtery of God, out of which is born this world, as a ſimilitude of it; and thus we have it both as the eternal and the corruptible alſo, and ſomething more; we bring the wonders of our works into the eternal Myſtery, for they depend
+<pb n="19" facs="tcp:118842:10"/>from the ſpirit of the will.</p>
+               <p n="4">4. But if we turn away our will from the eternal into the earthly Myſtery, and eſteem Money to be our Treaſure, and the beauty of the body for our ſplendor, Honour and power for our beſt Jewels, then is our will captivated in it, and depends only upon the Mirror, and attains not unto Gods Free<g ref="char:EOLhyphen"/>dom.</p>
+               <p n="5">5. For the Mirror as the external Kingdom muſt be approved through Fire, and the Fury muſt be ſeparated from the pure, where the Fury will be an external Burning.</p>
+               <p n="6">6. Now if Reaſon bringeth the animated mind with the ſpirit of the will of the Soul (in which ſtands Gods Image, and the true Man) into the ex<g ref="char:EOLhyphen"/>ternal Mirror, as into an hypocritical Infection, needs muſt the Image and true Man be captivated thereby, and (with the external <hi>Magia,</hi> as with its diſeaſe) be infected.</p>
+               <p n="7">7. Where the Image putteth on the external En<g ref="char:EOLhyphen"/>tity, not only as a garment, but it is an infection, and a total mixture.</p>
+               <p n="8">8. Though the animated Fire doth not mix with the external Kingdom, yet the Souls ſpirit of the will mingleth, which is Magical, and the Image of God is deſtroyed, and tranſmuted into an earthly, where the Souls fiery life abideth crude, and hath an earthly Image in the will of the ſpirit.</p>
+               <p n="9">9. Now if the Body breaketh and dyeth, then the Soul holdeth her Image as her ſpirit of the will is now, that is, as he departed from the body's image, for at the dying there is a dividing; Then there appeareth the Image with and in ſuch things
+<pb n="20" facs="tcp:118842:11"/>which ſhe hath taken in, wherewith ſhe was infected; the ſame quality ſhe hath in her.</p>
+               <p n="10">10. What ſhe hath loved here, the ſame hath been her treaſure, into which the will of the ſpirit is entered, and after the ſame ſhapeth her ſelf alſo the animated Image.</p>
+               <p n="11">11. If one hath turned his mind and heart into pride in his life time, then the ſame quality ſpring<g ref="char:EOLhyphen"/>eth up continually in the Souls fire in the Image, and goeth beyond Love and Meekneſs, as beyond Gods Freedom, and cannot comprehend nor poſſeſs Gods Freedom.</p>
+               <p n="12">12. But ſpringeth up thus in it ſelf in that anguiſh quality, and ſtill ſhapeth the will of the ſpirit after earthly things, wherein his will is entred, and ſo glit<g ref="char:EOLhyphen"/>tereth with it in the Souls fire, and ſtill riſeth in pride, and will go beyond Gods Meekneſs in the Fire.</p>
+               <p n="13">13. For he cannot draw or make any other will, becauſe he cannot go into Gods Freedom into the holy Myſtery (where he might make another will,) he lives meerly in himſelf.</p>
+               <p n="14">14. He hath nothing, neither may he reach unto any thing, but only unto that which he had com<g ref="char:EOLhyphen"/>prehended in him in his external life (or whileſt he lived in the world.)</p>
+               <p n="15">15. And ſo it fareth with a covetous perſon, he hath in his will and image the magical greedy diſ<g ref="char:EOLhyphen"/>eaſe, and coveteth much continually, and formeth that in his will of the ſpirit, which he dealt withall in the life of his body.</p>
+               <p n="16">16. But becauſe that hath left him, and his being is no more earthly, yet he carryeth the earthly will,
+<pb n="21" facs="tcp:118842:11"/>which tormenteth and plagueth himſelf with it, for he cannot reach any other.</p>
+               <p n="17">17. And much worſe it goes with falſhood, a<g ref="char:EOLhyphen"/>gainſt which the poor cryeth and curſeth him by reaſon of his oppreſſion.</p>
+               <p n="18">18. For all that is wrought in wickedneſs, which he hath cauſed, followeth after him, for it hath been wrought in the myſtery of wrath; then the cor<g ref="char:EOLhyphen"/>rupted ſoul after the body's dying falls into it.</p>
+               <p n="19">19. There ſhe muſt be bathed in thoſe abomina<g ref="char:EOLhyphen"/>tions, that if it were poſſible to unite with the will in Gods Love, yet the ſame abominations and wick<g ref="char:EOLhyphen"/>edneſs keepeth him back, for they bring him to an eternal Deſpair.</p>
+               <p n="20">20. Where at laſt the Soul preſumeth, and re<g ref="char:EOLhyphen"/>nounceth God, and deſireth only to aſcend in the ſame abominations, and to live ſo.</p>
+               <p n="21">21. And that is her joy to calumniate or blaſ<g ref="char:EOLhyphen"/>pheme God and his Saints, and exalteth himſelf in the Abominations above God and the Kingdom of Heaven, and yet comprehendeth none of them.</p>
+               <p n="22">22. Thus we give you to conſider, what Will and Confidence is, namely, that it is the Maſter and Guide, which bringeth mans Image both into Gods Love, and alſo into Gods Wrath.</p>
+               <p n="23">23. For in the Will is begotten the right true Faith, wherein ſubſiſteth the noble Image of God: For in Faith we are born again through Chriſt in God, and obtain again the noble Image which <hi>Adam</hi> had loſt, and Chriſt hath brought it again with Gods Life into the Humanity.</p>
+               <p n="24">24. Alſo a falſe Will deſtroyeth the Image, be<g ref="char:EOLhyphen"/>cauſe the Will is the Root of the Image, for he
+<pb n="22" facs="tcp:118842:12"/>attracteth the Myſtery of God.</p>
+               <p n="25">25. And the ſpirit of that Myſtery openeth that fair Image, and putteth on it the Divine Myſtery, <hi>viz.</hi> Gods Entity, underſtand Chriſts heavenly Body, who was born out of God in the dear and beautiful Virgin of his Wiſdom, which filleth Heaven.</p>
+               <p n="26">26. Now if our mind and will is ſet into the ſame, and the will deſireth it, then is the Will magi<g ref="char:EOLhyphen"/>cal, and entereth into it; and if he be hungry, then he may feed on Gods Bread.</p>
+               <p n="27">27. Now groweth up in him the new Body, which is the pleaſant or gracious Tree of Chriſtian Faith, for every body loveth himſelf.</p>
+               <p n="28">28. Now if the Soul getteth a body out of God which is ſo ſweet and gracious, needs muſt ſhe love him, being given unto him for a propriety, in whom ſhe dwelleth and liveth, and from whoſe power ſhe eateth and ſtrengtheneth her ſelf.</p>
+               <p n="29">29. Therefore let no man deceive himſelf, and continue in his falſhood and unrighteouſneſs, and comfort himſelf with an hiſtorical belief (or faith,) when he thinketh, and ſaith with himſelf, Is not God gracious? will he not forgive me? I will ga<g ref="char:EOLhyphen"/>ther a Treaſure, and enjoy the ſame, make uſe of it, and leave to my Children great Riches and Honor; I will repent at one time or other: This is a meer deceit.</p>
+               <p n="30">30. Thou gathereſt in falſhood, and draweſt in<g ref="char:EOLhyphen"/>to thy ſelf unrighteouſneſs; and when it is done in the beſt manner, yet it is but earthly, and thou haſt ſunk thy heart and will into an earthy veſſel, and clotheth thy noble Image with it, and ſo haſt wholly infected it.</p>
+               <pb n="23" facs="tcp:118842:12"/>
+               <p n="31">31. Beſides, thou leaveſt to thy children only Pride for an Inheritance; that they only fix (ſet) into it the ſpirit of their will:</p>
+               <p n="32">32. And putteth on the worſt thing upon thee, and thy children, when thou thinkeſt to do good unto them.</p>
+               <p n="33">33. True, external life muſt have ſuſtenance, and he doth fooliſhly who giveth his goods to a wicked man.</p>
+               <p n="34">34. But he doth more fooliſhly, who turneth with his goods unto wickedneſs, hanging his heart thereon, and holdeth in higher eſtimation temporal and corruptible pleaſures, then the eternal incorrup<g ref="char:EOLhyphen"/>tible Good, which is infinite.</p>
+               <p n="35">35. But he is bleſſed, which helpeth the poor; for they wiſh all happineſs unto him, and pray to God to bleſs him in his body and ſoul.</p>
+               <p n="36">36. Thus their wiſhes and praying go to the Giver into the Myſtery, and embraceth him, and followeth after him, as a good work born in God; for that treaſure he taketh along with him, and not the earthly.</p>
+               <p n="37">37. For when the Body dyeth, then the Image goeth into the Myſtery, that is, ſhe is revealed into the Myſteries of God.</p>
+               <p n="38">38. For in the time of the earthly Life the exter<g ref="char:EOLhyphen"/>nal principle hath been a cover for it, which falleth away when the body dyeth; then appeareth the Divine Myſtery in the Image, and therein alſo all good works and deeds which were born in Love in Gods Will.</p>
+               <p n="39">39. The wiſhes and prayers of all Gods Chil<g ref="char:EOLhyphen"/>dren ſtand in the Myſtery, and makes a propriety
+<pb n="24" facs="tcp:118842:13"/>with the Image: For the children of the poor, if he hath helped them in their miſeries and afflictions, have ſent their will in their prayers into Gods My<g ref="char:EOLhyphen"/>ſtery, and ſo united thereby with their Deliverer and Comforter, and gave to him that likeneſs in the Divine Myſtery.</p>
+               <p n="40">40. And if that Benefactor cometh into the My<g ref="char:EOLhyphen"/>ſtery, that the earthly life falleth away, then all things are revealed, and each doth ſtick to his own, whither the Will hath appointed it.</p>
+               <p n="41">41. And all this is reſerved unto Gods Judg<g ref="char:EOLhyphen"/>ment of the holy Spirit in the Myſtery, where eve<g ref="char:EOLhyphen"/>ry one ſhall reap that, what he hath ſowed here into his Acre.</p>
+               <p n="42">42. Where all ſhall ſpring up, grow and bring bloſſoms in a heavenly new Earth, in which man in his divine Image ſhall put on the body of the per<g ref="char:EOLhyphen"/>fect Myſtery upon his divine Image, and will ſee, ſtanding before him, namely before his bodily I<g ref="char:EOLhyphen"/>mage, his Righteouſneſs, why he is ſo fair.</p>
+               <p n="43">43. He will know the Cauſes thereof, and re<g ref="char:EOLhyphen"/>joyce therein eternally, and comprehend his Hymn therein unto Gods Honor and wondrous Deed.</p>
+               <p n="44">44. On the other ſide, the multitude of the wick<g ref="char:EOLhyphen"/>ed will have heaped on them Ignominy, avarice, pride, wickedneſs, and the curſe of the oppreſſed gathered in the Myſtery of Wrath, which will fol<g ref="char:EOLhyphen"/>low after them, and ſhall know the cauſes of their torment, and therefore will be an eternal enemy of God, and of his Children.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="25" facs="tcp:118842:13"/>
+               <head>The Fifth Chapter.</head>
+               <p n="1">1. ALl this the multitude of the wicked cannot comprehend; the reaſon of it is, there is no will in them thereunto, or to deſire to comprehend it.</p>
+               <p n="2">2. For the earthly Being hath captivated them, that they cannot draw any will unto Gods Myſte<g ref="char:EOLhyphen"/>ry; they are to God as dead men, there is no breath in them of the Divine Life; neither have they any mind to it, they are lockt up (bolted) in Gods Wrath (Myſtery) that they cannot do it.</p>
+               <p n="3">3. Not that God hath done-ſo to them, but they are entred thereinto with the ſpirit of the Will, and ſunk themſelves therein, therefore they run like mad men.</p>
+               <p n="4">4. And whereas the noble Jewel ſtandeth hid in them in the noble Center in the divine Principle, and could very well go out from their earthly Be<g ref="char:EOLhyphen"/>ing and wickedneſs with theirs into Gods Will.</p>
+               <p n="5">5. Yet they wilfully ſuffer themſelves to be held by the Fury, for the proud ſelf-honored Life plea<g ref="char:EOLhyphen"/>ſeth them too well, and that doth hold them.</p>
+               <p n="6">6. But after this Life there is no more remedy; if the Souls fire be naked and crude, it cannot be quenched with any thing, but only with Gods Meekneſs, with the Water of eternal Life in Gods Myſtery, and that they cannot reach unto; there is afterward a great Cleft or Gulf betwixt them,
+<pb n="26" facs="tcp:118842:14"/>
+                  <hi>viz.</hi> a whole Principle.</p>
+               <p n="7">7. But in this time of Life, as long as the Soul ſwimmeth in the Blood, and burneth, it may be very well, for the Spirit of God moveth on the wings of the Wind; God is become Man.</p>
+               <p n="8">8. The Spirit of God goeth with the Will into the Soul, he deſireth the Soul, ſhe needs only to open the door, for he goeth willingly unto it, and revealeth or openeth the noble Corn (or ſeed) unto the Tree of Chriſtian Faith.</p>
+               <p n="9">9. But this is the moſt ſmarting thing which is to man moſt bitter, he muſt break off his ſpirit of his Will from the earthly Being, he muſt bring forth the ſpirit of his Will out of the earthly Trea<g ref="char:EOLhyphen"/>ſure, as out of Pride, Covetouſneſs, and Envy, as alſo out of Wrath and Falſhood, toward the Spirit of God.</p>
+               <p n="10">10. His mouth muſt not play the hypocrite, nor his heart nor will muſt not perſevere in the earthly Myſtery; there muſt be an earneſtneſs from the bottom of the heart and ſoul.</p>
+               <p n="11">11. The Will muſt turn into the divine Myſte<g ref="char:EOLhyphen"/>ry, <hi>viz.</hi> into Gods Love, that the Spirit of God may have place in him to blow on the divine Spark, elſe there is no Remedy, no flattering or diſſembling a<g ref="char:EOLhyphen"/>vaileth.</p>
+               <p n="12">12. And if a man learned all the Scripture by heart, and did ſit all the days of his life in the Church, and yet continued in the Image of the Soul an earthly beaſtly Man, who endeavoreth meerly after falſhood in his heart, his Diſſembling helpeth him nothing.</p>
+               <p n="13">13. A Preacher who handleth the Myſtery of
+<pb n="27" facs="tcp:118842:14"/>God in the outward, but hath not Gods Image in the Inward, but ſtriveth only after honour and co<g ref="char:EOLhyphen"/>vetouſneſs, he is as near unto the Devil as the meaneſt, he is a meer Juglar with Gods Myſteries, he is a hypocrite, no efficacy is in him.</p>
+               <p n="14">14. Himſelf hath not the Myſtery of God, how ſhould he give it unto others? he is a falſe Paſtor, and a Wolf to the ſheep.</p>
+               <p n="15">15. For every one that beareth Gods Myſtery, that is, he that hath rouzed it in himſelf, and yeilded himſelf unto it, Gods Spirit does drive him, he is Gods Prieſt, for he teacheth out of God; none can teach truly, unleſs he teach out of Gods Myſtery.</p>
+               <p n="16">16. But how ſhall he teach, who is without the My<g ref="char:EOLhyphen"/>ſtery? doth he not teach by Art and earthly Rea<g ref="char:EOLhyphen"/>ſon? what is that unto Gods Myſtery?</p>
+               <p n="17">17. Though Reaſon be a noble Being, yet ſhe is blind without Gods Spirit; for Chriſt ſaith, <hi>With<g ref="char:EOLhyphen"/>out me you can do nothing.</hi>
+               </p>
+               <p n="18">18. Thoſe that are driven by Gods Spirit are Gods Children: He that entereth any way elſe into the ſheepfold, then through Chriſts Spirit, he is a Thief and a Murderer, and comes only to rob and ſteal, and ſeeketh his own profit; he is not a Paſtor of the ſheep, but a Devourer like a Wolf.</p>
+               <p n="19">19. Thus are we to conceive of the Tree of Chriſtian Faith, it muſt be living, and not a dead hiſtory or knowledg; The Word of Life muſt be new born in the Image, that the Soul may bear Gods Image, without it ſhe is not Gods Child.</p>
+               <p n="20">20. No flattering nor delaying of Repentance upon hopes availeth any thing; as long as one bear<g ref="char:EOLhyphen"/>eth the earthly Image on the Soul, he is without <hi>Gods</hi> Myſtery.</p>
+               <pb n="28" facs="tcp:118842:15"/>
+               <p n="21">21. Neither needſt thou to think I wil turn one time or another, but I will firſt gather enough, that I may not want, that afterwards the earthly buſineſs may not lie in the way.</p>
+               <p n="22">22. No, this is a trick of the Devil; but through perſecution, croſſes and affliction, through ignomi<g ref="char:EOLhyphen"/>ny and contempt, we muſt enter into Gods King<g ref="char:EOLhyphen"/>dom.</p>
+               <p n="23">23. For the Devil leadeth his Government in the earthly Image, and he mocketh Gods Children in his proud Seat, when they will run away from him; thus the multitude of the wicked ſerveth the Devil, and helpeth him to drive his work.</p>
+               <p n="24">24. A man that intendeth to come to God, muſt not regard this; he muſt think that he is in a ſtrange Country among Murtherers, and is a Pilgrim, which travelleth to his true home, he falleth amongſt Murtherers which torment and rob him.</p>
+               <p n="25">25. And if he bring but ſo much away that he preſerveth his noble Image, he hath Goods enough, for he getteth the heavenly Myſtery for it, in which lieth all, out of which the World is only a Mirror (of it.)</p>
+               <p n="26">26. And he is a very Fool that changeth the Re<g ref="char:EOLhyphen"/>flex of a Mirror (or Looking-glaſs) for a ſubſtantial Being; for when the Looking-glaſs breaketh, he that loved it, is bereaved of it.</p>
+               <p n="27">27. He is like unto one which buildeth a houſe on the ſand near a great water, where the water car<g ref="char:EOLhyphen"/>ryeth away his houſe; ſo is it with the earthly hope.</p>
+               <p n="28">28. O ſon of Man, thou noble Creature, live not under Reaſons power, elſe it will coſt thee loſs of
+<pb n="29" facs="tcp:118842:15"/>an eternal Kingdom; ſeek thy ſelf, and find thy ſelf, but not in the earthly Kingdom.</p>
+               <p n="29">29. How well is it with him that findeth himſelf in Gods Kingdom, that putteth on the heavenly and divine Myſtery, and entereth into it.</p>
+               <p n="30">30. All the worlds ornaments are no more but dirt in reſpect of the heavenly, and they are not worthy that a man ſhould ſet his love into them.</p>
+               <p n="31">31. And though it be ſo, it muſt be brought into the Wonders, to which God hath created it alſo; that man (underſtand the external man) muſt reveal the Wonders of the external Nature, as in the ex<g ref="char:EOLhyphen"/>ternal Myſtery, both from within the Earth and above the Earth.</p>
+               <p n="32">32. All what the Stars are able to do, and what the Earth containeth, Man is to bring into wondrous Forms and Beings, after the external Figure, (which in Gods Wiſdom hath been foreſeen before the times of the World.)</p>
+               <p n="33">33. But he ought not to ſet his will on them, and hold them for his treaſure, but he may uſe them to his joy and ornament; but with the inner man he is to work in Gods Myſtery, then the Spirit of God will help him to ſeek and to find the outward things.</p>
+               <p n="34">34. Seeing we are thus corrupted by that heavy Fall, that our mind is turned out of the heavenly Myſtery into the earthly, as in a Mirror, that we are become as it were half dead; therefore it is moſt neceſſary for us, that we go out from the earthly ſplendor with our mind and will, and ſeek our ſelves firſt, before we ſeek the earthly ornament, that we learn firſt to know where we are at home, and do not
+<pb n="30" facs="tcp:118842:16"/>make our mind earthly (or be earthly minded.)</p>
+               <p n="35">35. For man though he ſtandeth in Gods Image, is in a threefold Life; but if he loſeth Gods Image, then is he only in a twofold Life.</p>
+               <p n="36">36. The firſt Life is the Souls Life, and exiſteth in the Fire of the external Nature, and ſtandeth chiefly in ſeven Forms, all after the ſpirit of Nature, as in our ſecond and third Book hath been demon<g ref="char:EOLhyphen"/>ſtrated at large.</p>
+               <p n="37">37. And the ſecond Life ſtandeth in the Image, which is begotten out of the Fountain of the eter<g ref="char:EOLhyphen"/>nal Nature, as out of the Souls fire, which Image ſtandeth in the Light in the ſecond Life, and hath his living ſpirit, as you may judg of it by the Fire and Lightening.</p>
+               <p n="38">38. For the quality of Fire is not the quality of the Light, and yet the Light ariſeth out of the Fire, for by the quality of the Light is underſtood the meek, pure, and pleaſing, or gracious ſpirit, and the cauſes of it are in the quality of the Fire.</p>
+               <p n="39">39. For you ſee how Ayr cometh out of the Fire, which is the Spirit: and the Ayr alſo is under<g ref="char:EOLhyphen"/>ſtood in four Forms; as a dry one, after the fury of the Fire; and a wet one, as water by the ſharp drawing; Thirdly, a meek one, as from the Light; and fourthly, an elevated one, from the furious Crake of Fire.</p>
+               <p n="40">40. Whereby we underſtand, that the Light is the Maſter in all the Forms, for it containeth Meek<g ref="char:EOLhyphen"/>neſs, and is a Life which is begotten by furious Death, as by an Anguiſh quality in the ſinking as another Principle, which conſiſteth (ſubſiſteth) in the Fire without feeling, yet it hath its feeling as the pleaſant taſte.</p>
+               <pb n="31" facs="tcp:118842:16"/>
+               <p n="41">41. Whereby we underſtand, that the Water is begotten through Death by the ſinking through the anguiſh of the Fire; and we underſtand further, how it is no death at all, and for all that it is a death.</p>
+               <p n="42">42. But the Light maketh it ſpring up, that there is a Life in it, which Life ſtandeth in the power of the Light, where Life ſpringeth up out of Death.</p>
+               <p n="43">43. And we underſtand the Entity as the Palpa<g ref="char:EOLhyphen"/>bility; for the Water in it ſelf is dead, but the fie<g ref="char:EOLhyphen"/>ry Life, and the power of the Light, is its life.</p>
+               <p n="44">44. Thus is the <hi>Ens</hi> eſteemed as dead, in which Life is a proper thing, and poſſeſſeth it ſelf in it ſelf.</p>
+               <p n="45">45. Where the death of the <hi>Ens</hi> muſt afford a body into it, as in our third Book is demonſtrated; where we underſtand alſo two Forms in the Life of Light, and in the Water of Death, and after the An<g ref="char:EOLhyphen"/>guiſh the third in the Fire.</p>
+               <p n="46">46. As firſt, in the Anguiſh of Mortifying in the fury of Fire we underſtand a furious Water, by reaſon of the firſt four Qualities unto Nature, as Sharp, Bitter Anguiſh, and Fire, is like unto poyſon, and it is a poyſon alſo, a helliſh Entity in the Fury after the Original of the Principle into which the Wrath of God ſpringeth.</p>
+               <p n="47">47. And ſecondly, we underſtand the ſecond Water in the Lights-crack, when the Quality ſink<g ref="char:EOLhyphen"/>eth through the Mortifying, and becomes in Death as a Nothing: For in the Nothing is the eternal Freedom, being the eternal Abyſs of Eternity, at<g ref="char:EOLhyphen"/>tained unto.</p>
+               <p n="48">48. Now if the incomprehenſible Light ſinking
+<pb n="32" facs="tcp:118842:17"/>in it ſelf giveth a glimpſe into the Eternity, and con<g ref="char:EOLhyphen"/>tinually repleniſheth the ſinking, then in the Light ſpringeth up the power of the Light, that is, a Life out of Death which is ſunk.</p>
+               <p n="49">49. For the Fury of the Fire abideth in the furi<g ref="char:EOLhyphen"/>ous Quality of the fiery Water, and doth not go along into Death; neither can it be, for the fierce<g ref="char:EOLhyphen"/>neſs is the ſharp omnipotent Life, which cannot dye, and that cannot reach unto the eternal Freedom, for it is called, and abideth in Eternity, the Life of Nature.</p>
+               <p n="50">50. And though that in the Life of the Light there is found alſo a Life of Nature, yet is it neither painful nor helliſh, as that in the Original of Na<g ref="char:EOLhyphen"/>ture, after which God calleth himſelf <hi>a zealous an<g ref="char:EOLhyphen"/>gry God.</hi>
+               </p>
+               <p n="51">51. For in the quality of Light comes the Wa<g ref="char:EOLhyphen"/>ter abroad, which through Death is ſunk into Li<g ref="char:EOLhyphen"/>berty, a quality and water of the eternal Life of Joy, in which Meekneſs and Love ſpringeth eternally.</p>
+               <p n="52">52. Where it is no more a ſinking, but a ſpring<g ref="char:EOLhyphen"/>ing up, which is called Paradiſe.</p>
+               <p n="53">53. And the Moving out of the Waters Spring is called Element, that is, pure Element, in the An<g ref="char:EOLhyphen"/>gelical World.</p>
+               <p n="54">54. And the Cauſe of the Fire in the Light is the eternal Firmament, in which is revealed the eternal Knowledg in Gods Wiſdom, a ſimilitude whereof we have in the outer Firmament and Stars.</p>
+               <p n="55">55. Thus we underſtand two Worlds one in an<g ref="char:EOLhyphen"/>other, where the one doth not comprehend the o<g ref="char:EOLhyphen"/>ther; as, one in the fury of the fiery Nature in the Water of Poyſon and Anguiſh quality, in which the Devil does dwell.</p>
+               <pb n="33" facs="tcp:118842:17"/>
+               <p n="56">56. And then alſo one in the Light, where the Water of Light out of the Anguiſh is ſunk into the eternal Freedom, which the poyſon Water may neither comprehend nor reach.</p>
+               <p n="57">57. And yet is not divided but only through Death, where it doth ſeparate it ſelf in two Princi<g ref="char:EOLhyphen"/>ples, and is divided in two Lifes, as the one in Wrath, and the other in Love, which Life is known to be the true Life of God.</p>
+               <p n="58">58. And herein ſtandeth the Ground, that as we went forth with <hi>Adam</hi> out of this Life into an ex<g ref="char:EOLhyphen"/>ternal Life, for whoſe ſake God alſo became Man, which was to bring us again through this Death, and out of the furious Quality out of the Anguiſh of the Fire of Life through Death into the Light and Life of Love.</p>
+               <p n="59">59. Where indeed the door of Death was lockt in the Fury in the humane Soul, where the. Soul ſtood in the Anguiſh quality in the inner Nature in the Fire of Poyſon, as in the Water of Anguiſh.</p>
+               <p n="60">60. There the Prince Chriſt broke the lock of Death, and is ſprung up again with his humane Soul through Death in the Light of God; and now its Life leadeth Death captive, and Death is become an Ignominy.</p>
+               <p n="61">61. For by this Cloſure <hi>Lucifer</hi> intended to be<g ref="char:EOLhyphen"/>come a Lord and an omnipotent Prince.</p>
+               <p n="62">62. But when the Cloſure was broken, then the Power of the Deity in the Light deſtroyed his Kingdom, there he became an impriſoned Servant; for Gods Light and the Water of Meekneſs is its Death, for Wrath is killed thereby.</p>
+               <p n="63">63. Thus went Love and Light into Wrath,
+<pb n="34" facs="tcp:118842:18"/>with the Paradiſical Element, and alſo the Water of eternal Life, and Gods Wrath was quenched.</p>
+               <p n="64">64. And continueth only in it ſelf an anguiſhing furious quality, when its body is a Poyſon, a quality of a poyſoned water.</p>
+               <p n="65">65. And is turned out of Gods Fire into the Matrix of eternal Nature, as into the auſtere Sharp<g ref="char:EOLhyphen"/>neſs, which begetteth eternal Darkneſs, wherein the the Devil leadeth the ſevere Government in the an<g ref="char:EOLhyphen"/>guiſhing <hi>Mercury,</hi> and is as one that is put to ſhame, or that is expelled.</p>
+               <p n="66">66. Who at the Original was a Prince, but go<g ref="char:EOLhyphen"/>eth now only for an Executioner, a graceleſs Ser<g ref="char:EOLhyphen"/>vant, who remains in the Fury of God like a Hang<g ref="char:EOLhyphen"/>man, which doth execution upon evil doers, being commanded by his Superiors, further he hath no power.</p>
+               <p n="67">67. Though he be a Deceiver, and catcheth af<g ref="char:EOLhyphen"/>ter many to increaſe his Kingdom, that ſo he might be numerous, and not be aſhamed in a few.</p>
+               <p n="68">68. He is like a Whore, having many of her condition, ſhe excuſeth the matter that ſhe is not (alone) a Whore, ſhe is as others are; ſo he covet<g ref="char:EOLhyphen"/>eth after a numerous multitude, thereby to mock God.</p>
+               <p n="69">69. For he ſtill blameth God for his Fall, as if his Fury had thus drawn him, and precipitated him into ſuch a will into Pride, that he could not ſubſiſt.</p>
+               <p n="70">70. He ſuppoſeth that he can draw many unto him to increaſe his Kingdom, that he gets a great many which will do like himſelf, and curſe God, and juſtifie themſelves; that this is his ſtrength and pleaſure in his dark ſharp Anguiſh, when he ſtill
+<pb n="35" facs="tcp:118842:18"/>rouzeth the Fire up unto himſelf, and goeth above the Thrones, ſo he ſtill counteth himſelf a Prince and King.</p>
+               <p n="71">71. Though he be evil, yet he is a Prince in his Legions in the Wrath in his creatures; but with the Wrath (without his creatures) he hath no power, whereby he remaineth an impotent Priſoner.</p>
+               <p n="72">72. Thus underſtand the humane Life in two Forms; the one after the Fire of Nature, and the other after the Fire of Light, which burneth in Love, in which the noble Image of God appear<g ref="char:EOLhyphen"/>eth.</p>
+               <p n="73">73. And we underſtand herein that the will of Man muſt enter into Gods Will, and then he enter<g ref="char:EOLhyphen"/>eth into Chriſts Death, with Chriſts Soul, through Death into the eternal Freedom of God, into the Life of Light, and there is he with Chriſt in God.</p>
+               <p n="74">74. And the third Form of Life is the external created Life out of this World, as out of the Sun, Stars and Elements.</p>
+               <p n="75">75. Which the Spirit of God breathed into <hi>A<g ref="char:EOLhyphen"/>dams</hi> noſtrils, with the ſpirit of the Macrocoſm, where he became alſo an external Soul, which mo<g ref="char:EOLhyphen"/>veth in Blood and Water, and burneth in the out<g ref="char:EOLhyphen"/>ward kindled Fire, as in a Warmth.</p>
+               <p n="76">76. That ſame external Life ſhould not reach in<g ref="char:EOLhyphen"/>to the Image in the inner Life, neither ſhould the Image let it come into the inner Light, which ap<g ref="char:EOLhyphen"/>peareth through Death, and ſpringeth up with his Power in the eternal Freedom; for the external Life is only a ſimilitude of the inner Life.</p>
+               <p n="77">77. The inner Spirit was only to reveal in the external Mirror the eternal Wonders, which were
+<pb n="36" facs="tcp:118842:19"/>ſeen in Gods Wiſdom in the Abyſs in the divine <hi>Magia,</hi> and bring it to a formal Mirror, as to a won<g ref="char:EOLhyphen"/>derful Game to the honour of God, and to the joy of the inner Man born out of God.</p>
+               <p n="78">78. But his will ſhould not have gone thereinto, to draw the external Wonders into the Image, as we now know in our miſery, how man draweth an earthly treaſure into the mind, and imagineth, and thus deſtroyeth the pure Image of God in the ſe<g ref="char:EOLhyphen"/>cond Principle.</p>
+               <p n="79">79. For the ſpirit of his will goeth into the earth<g ref="char:EOLhyphen"/>ly Being, but bringeth his Love, in which the Image ſtandeth, into the earthly Being, as into an earthly treaſure, into an earthly veſſel.</p>
+               <p n="80">80. Now the Image groweth earthly through imagination, and ſo goeth again into Death, loſeth God and the Kingdom of Heaven; for the ſpirit of the Will ſtandeth with the Love in the external Life.</p>
+               <p n="81">81. Now the external Life muſt dye and break, that the created Image of the inner Kingdom may appear.</p>
+               <p n="82">82. Thus the ſpirit of the Will ſtriketh with the Love into the external Wonders, and bringeth them at the death of the external Life (along) before Gods Judgment.</p>
+               <p n="83">83. There the ſpirit of the Will muſt go through (paſs) the Fire, and the Image muſt be approved in the Fire, and all Earthlineſs muſt burn away from the Image; ſhe muſt be pure and without ſpot.</p>
+               <p n="84">84. Even as the Light ſubſiſteth in the Fire, ſo the ſpirit of the Will muſt ſubſiſt alſo in Gods Fire, and if it cannot (there) paſs freely through Gods
+<pb n="37" facs="tcp:118842:19"/>Fire, then this Image is ſpued out into eternal Darkneſs.</p>
+               <p n="85">85. And this is the heavy Fall of <hi>Adam,</hi> that he did ſet the ſpirit of his Will into the external Life, into the outer Principle in the falſe Infection, and imagined after the earthly Life.</p>
+               <p n="86">86. And thus he went out of Paradiſe, which ſpringeth up through death in the ſecond Principle, in the outer, and thus entered into Death; and thus he dyed, and thus was his Image deſtroyed.</p>
+               <p n="87">87. This by an Inheritance we had from <hi>Adam,</hi> and from the ſecond <hi>Adam</hi> Chriſt we have Rege<g ref="char:EOLhyphen"/>neration.</p>
+               <p n="88">88. Where we muſt enter into Chriſts Incarna<g ref="char:EOLhyphen"/>tion, and with him into his Death, and from Death with him ſpring up in the Paradiſical World, in the Entity of Gods Freedom.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>The Sixth Chapter.</head>
+               <p n="1">1. THus we underſtand that Luſt is the Cauſe why Corruption is come in, and ſtill doth.</p>
+               <p n="2">2. For Luſt is an Imagination, where the Ima<g ref="char:EOLhyphen"/>gination windeth her ſelf into all the Forms of Na<g ref="char:EOLhyphen"/>ture; ſo as that they become all impregnated with that thing, out of which the Luſt ariſeth.</p>
+               <p n="3">3. And we underſtand the external ſpirit of man (who is a ſimilitude of the Inner) did luſt after the fair Image, and therefore hath ſet his Imagination
+<pb n="38" facs="tcp:118842:20"/>into the Inner, whereby the Inner was infected.</p>
+               <p n="4">4. And becauſe he did not feel death inſtantly, therefore hath he brought the ſpirit of his Will to the Outer; thus the Outer went to lodg in the In<g ref="char:EOLhyphen"/>ner, and at laſt is become Hoſt in the Inn, and hath obſcured the Inner, ſo that the fair Image deceaſed.</p>
+               <p n="5">5. There the Image fell amongſt the Murther<g ref="char:EOLhyphen"/>ers, and among the ſeven ſpirits of Nature, and the Originals of Life; theſe kept the Image impriſon<g ref="char:EOLhyphen"/>ed, and pulled off her Paradiſical Garment, mur<g ref="char:EOLhyphen"/>thered, and left her half dead.</p>
+               <p n="6">6. Now there was need of Chriſt the Good <hi>Sa<g ref="char:EOLhyphen"/>maritan,</hi> and this is the Reaſon why God became Man.</p>
+               <p n="7">7. And if the Wound could have been healed by ſpeaking of a word, or a verbal remiſſion, then God would not have become Man.</p>
+               <p n="8">8. But God and Paradiſe was loſt, and then the noble Image was deſtroyed and waſted, and muſt be new born again out of God.</p>
+               <p n="9">9. Therefore did God come with his Word, which is the Center in the Life of Light, and be<g ref="char:EOLhyphen"/>came Fleſh; And ſo the Soul obtained again a di<g ref="char:EOLhyphen"/>vine Paradiſical Manſion: Conceive it thus:</p>
+               <p n="10">10. That as <hi>Adams</hi> Soul had opened the door of the Eſſences of Fire, and let in the earthly Eſſences, whoſe Springs were turned into the Paradiſical Image, and made the Image earthy.</p>
+               <p n="11">11. So the Heart of God opened the Door of the Eſſences of Light, and embraced or encompaſſed the Soul with heavenly Fleſh; and thus the Eſſences of the Holy Ghoſt imagined after the Image, after the Eſſences of the Soul.</p>
+               <pb n="39" facs="tcp:118842:20"/>
+               <p n="12">12. Thus was the Soul impregnated again, ſo as ſhe entered with the ſpirit of her will through death into the Paradiſical Life.</p>
+               <p n="13">13. And from hence came the Temptation of Chriſt, that he was tempted, whether the Soul would feed on the Lords Word, and whether ſhe could enter again through death into the Life of God.</p>
+               <p n="14">14. Which was accompliſhed upon the Croſs, where the Soul of Chriſt went through the Fire of the Fury, through the ſevere Qualities, through death, and ſprang up again in the holy Paradiſical world, in which <hi>Adam</hi> was created.</p>
+               <p n="15">15. Thus we Men were helped up again; and it is requiſite for us to turn away our wills, or the ſenſes of our will and mind from all earthly things, and turn it into Chriſts ſufferings, dying, death, and Reſurrection.</p>
+               <p n="16">16. That we ſtill crucifie the old <hi>Adam</hi> with Chriſts death, and ſtil dye unto ſin in the death and dying of Chriſt, &amp; ariſe with him out of the anguiſh of death in the new man, and grow up in the Life of God, as there is no other Remedy, nor no other Help.</p>
+               <p n="17">17. We muſt dye unto the earthly world in our will, and muſt (ſtill) be new born again to the new world in Faith, in the Fleſh and Blood of Chriſt; we muſt be born out of Chriſts Fleſh, if we intend to ſee the Kingdom of God.</p>
+               <p n="18">18. It is no eaſie matter to be a True Chriſtian, it is a moſt difficult buſineſs; The Will muſt be<g ref="char:EOLhyphen"/>come a Warrior, and fight againſt the corrupted Will.</p>
+               <p n="19">19. He muſt ſink himſelf out of the earthly Rea<g ref="char:EOLhyphen"/>ſon
+<pb n="40" facs="tcp:118842:21"/>in Chriſts death, into Gods wrath, and break the power of the earthly will, like a valiant Cham<g ref="char:EOLhyphen"/>pion.</p>
+               <p n="20">20. And he muſt hazard hard, and ſpend his earthly life about it, and by no means give over, unleſs he have broken the earthly will; This in<g ref="char:EOLhyphen"/>deed is a ſharp War, where two Principles fight for the Victory.</p>
+               <p n="21">21. Here is no jeſting, earneſtneſs muſt be uſed in fighting for the Garland of Vallor, for none ob<g ref="char:EOLhyphen"/>taineth it unleſs he get the Victory; He muſt break the power of the earthly Will, which yet out of his own power he is not able to do.</p>
+               <p n="22">22. But if he doth ſink himſelf out of the earthly Reaſon into Chriſts Death with his inner will, then he ſinketh through Chriſts Death, through Gods Fury, and through all the lets and ſtops of the De<g ref="char:EOLhyphen"/>vil, into the Paradiſical World, into the Life of Chriſt.</p>
+               <p n="23">23. He muſt make his will as if it were dead, then he liveth unto God, and worketh into the Love of God, though he liveth in the external Kingdom.</p>
+               <p n="24">24. I ſpeak of the warlike Garland which he get<g ref="char:EOLhyphen"/>eth in the Paradiſical World, if he once preſſeth through, for there is then ſowed the Noble Seed, there he getteth that moſt dear Pledg of the Holy Ghoſt, which afterward leadeth and guideth him.</p>
+               <p n="25">25. And although he muſt walk in this world in a dark vail, when the Devil and the worldly wicked<g ref="char:EOLhyphen"/>neſs, ſtill aſſaulteth him, and many times flingeth the external man into abominations, and hideth that noble Muſtard-ſeed, yet it cannot be hid.</p>
+               <p n="26">26. But it ſpringeth up and groweth to a Tree
+<pb n="41" facs="tcp:118842:21"/>in Gods Kingdome, againſt all the raging of the Devil and his complices.</p>
+               <p n="27">27. And the more the noble Pearl Tree is ſought, the more forcibly and powerfully it grow<g ref="char:EOLhyphen"/>eth it will not be ſuppreſt, though it ſhould coſt the external life.</p>
+               <p n="28">28. Thus my dear mind, ſearch after the Tree of thy Chriſtian Faith rightly; it doth not ſtand in this world.</p>
+               <p n="29">29. True, it muſt be in thee, but thou muſt be with the Tree with Chriſt in God; ſo that the world doth only as it were hang about thee, as it did hang on Chriſt.</p>
+               <p n="30">30. It is not my meaning as if this world were worth nothing, or of no uſe before God; it is the great Myſtery.</p>
+               <p n="31">31. Man is created into this world to that end, as a wire Governor of it, that he ſhould reveal all the Wonders which are in the <hi>Sulphur</hi> from Eternity, out of which this world with the Stars and Ele<g ref="char:EOLhyphen"/>ments is created, and bring them after his will into Forms and Images, all to his joy and glory.</p>
+               <p n="32">32. He was freely created without any Law, he had no Law but only the Law of Nature, <hi>viz.</hi> that he ſhould not mingle one Principle with another.</p>
+               <p n="33">33. The inner man ſhould not have permitted any earthlineſs to have entered into him, but ſhould omnipotently raign over the external Principle; then no death or dying would have entered into him.</p>
+               <p n="34">34. Neither could the external Elements ſtir him, neither heat nor cold could have toucht him.</p>
+               <p n="35">35. For as the Noble Image muſt hold in the
+<pb n="42" facs="tcp:118842:22"/>Fire, even ſo the ſame noble Image throughout the whole Man ſhould rule and govern all through all the three Principles, and fill it with a Paradiſical Quality.</p>
+               <p n="36">36. But ſeeing it could not be, and the fleſh is become earthly, therefore we muſt now be born in Faith, where indeed the earthly life covereth the true Life.</p>
+               <p n="37">37. Therefore we muſt put on the true Gar<g ref="char:EOLhyphen"/>ment, which is called Hope, and ſet our will on Hope, and ſtill work on in the Tree of Faith, that he may bring his fruits, as that gracious Love to<g ref="char:EOLhyphen"/>wards God and his Neighbor.</p>
+               <p n="38">38. He muſt do good not only for his own ſake, but he may edifie his Neighbor by his godly life and converſation.</p>
+               <p n="39">39. He muſt think, that he is a Tree in Gods Kingdom, that he bears fruit to God, and grows in Gods Ayr, that his fruit belongeth to the Lords Table.</p>
+               <p n="40">40. And that he take in his works and wonders into the true Love, and walk in Love, that he may bring her into Gods Kingdom.</p>
+               <p n="41">41. For God is a Spirit, and Faith is a Spirit alſo in him, and God is become Man in Chriſt, and the Spirit of Faith is born Man alſo in Chriſt.</p>
+               <p n="42">42. Thus the ſpirit of the Will walketh in God, for he is one Spirit with God, and worketh with God divine works.</p>
+               <p n="43">43. And though it be, that the earthly life hideth him, that he knoweth not his works which he begot in Faith, yet will it be revealed at the breaking of the earthly body.</p>
+               <pb n="43" facs="tcp:118842:22"/>
+               <p n="44">44. For Hope is his Cheſt, and a Myſtery into which the works of Faith are ſowed and kept alſo.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>The Seventh Chapter.</head>
+               <p n="1">1. NOw Man ſtanding thus in a threefold Life, each Life is then a Myſtery unto the other, and is deſirous of the other, to which this World with all its Beings is created.</p>
+               <p n="2">2. For the Divine Entity deſireth the Mirror or Similitude.</p>
+               <p n="3">3. For this World is a ſimilitude after Gods Be<g ref="char:EOLhyphen"/>ing, and God is revealed in an earthly ſimilitude: For the Wonders of the Myſtery could not be re<g ref="char:EOLhyphen"/>vealed in the Angelical World in the lower birth.</p>
+               <p n="4">4. But in this World where Love and Wrath is mingled, there is a twofold Genetrix, there it might be.</p>
+               <p n="5">5. For all things exiſt out of the Root of the Fire, but are encompaſſed with the Water of Meekneſs, ſo that it is a pleaſant Being.</p>
+               <p n="6">6. But if the Fire in the Angelical World be not known, for the Center of the Genetrix ſtandeth in the Light, and is the Word of God, then the Won<g ref="char:EOLhyphen"/>ders of Nature may not any other way be revealed then in a ſpiritual <hi>Magia,</hi> that is, are foreſeen in Gods Wiſdom.</p>
+               <p n="7">7. But becauſe the ſame is almoſt incomprehen<g ref="char:EOLhyphen"/>ſible to the Angels, and Souls of Men, and ſeeing that God will be known in Angels and Men, there<g ref="char:EOLhyphen"/>fore
+<pb n="44" facs="tcp:118842:23" rendition="simple:additions"/>the Angelical World luſteth after the great Wonders to know them, which ſtood in Gods Wiſ<g ref="char:EOLhyphen"/>dom from Eternity.</p>
+               <p n="8">8. And theſe are brought to a Being in the earth<g ref="char:EOLhyphen"/>ly Similitude into Forms and Images, all after the eternal Eſſences of the Center of Nature, that the Wonders may ſtand eternally.</p>
+               <p n="9">9. But not eſſentially, but in Forms, Images and Similitudes in Figures, after the Will, Magically indeed, but yet the Genetrix is in the Center of Wonders.</p>
+               <p n="10">10. For ſhe was once excited out of the Fire, but is ſwallowed again into the Myſtery, and ſtandeth as a hidden life.</p>
+               <p n="11">11. Therefore all Beings muſt be revealed as it were in a ſhadow in the Angelical World, and ſuch as are brought into Gods Will into the Myſtery.</p>
+               <p n="12">12. For there are two ſorts of Myſteries, which are eternal, as the one in Love and the other in Wrath, where the ſpirit of the will turneth in with his wonders, there ſtand alſo his works and wonders.</p>
+               <p n="13">13. So we are in like manner to know, that the outer is vehemently deſirous of the Inner, for all runneth after the Center as after the Original, and is deſirous of the Freedom.</p>
+               <p n="14">14. For in the Fire of Nature is anguiſh and tor<g ref="char:EOLhyphen"/>ment; Now the form or the image of Meekneſs in the quality of Love will be free, and yet may not be free in the quality of the fiery Eſſences, till the qua<g ref="char:EOLhyphen"/>lity in the breaking ſeparateth, then each ſteppeth into its own Myſtery.</p>
+               <p n="15">15. Therefore the fire alſo will be free from wa<g ref="char:EOLhyphen"/>ter, for water is a death unto fire, and is a myſtery unto it.</p>
+               <pb n="45" facs="tcp:118842:23"/>
+               <p n="16">16. And we ſee alſo hereby, how the water holdeth the fire impriſoned, and yet there is no dy<g ref="char:EOLhyphen"/>ing in the fire, but is wholy a Miſtery in the fire.</p>
+               <p n="17">17. As it is apparent, how it breaketh forth in the water, and revealeth it ſelf, that it revealeth it ſelf out of the Center of its own Genetrix as it is ap<g ref="char:EOLhyphen"/>parent in lightning and is known alſo in a ſtone which is but a Water.</p>
+               <p n="18">18. And we ſee chiefly, how all the Formes of Nature are deſirous of the light, for in the ſame de<g ref="char:EOLhyphen"/>ſire the Oyl is begotten in which the light is known for it exiſteth out of meekneſs.</p>
+               <p n="19">19. So we are to know our life, that in us ſtand<g ref="char:EOLhyphen"/>eth open, the Center of fire, for the life burneth in the fire.</p>
+               <p n="20">20. And then are we to conſider the deſire unto Love, which exiſteth in the word of life in the An<g ref="char:EOLhyphen"/>gelicall world, where the heart of God ſtandeth with his deſire toward us in his imagination, and draweth us alſo into the Divine Myſtery.</p>
+               <p n="21">21. And thirdly we are to conſider the Magicall Kingdome of this World, which burneth alſo in us, and draweth us vehemently into its wonders, for it will be manifeſt.</p>
+               <p n="22">22. And man is created unto that end, that he ſhould reveal the Myſtery of it, and to bring the wonders to Light and into Forms, after the eter<g ref="char:EOLhyphen"/>nall Wiſdom.</p>
+               <p n="23">23. Now if he ſhall do ſo and burn thus in a threefold fire, then the true Spirit in whom the An<g ref="char:EOLhyphen"/>gelicall Image ſticketh, is in great pains, and in great danger, for he walketh in a very narrow path.</p>
+               <pb n="46" facs="tcp:118842:24"/>
+               <p n="24">24. For he hath two friends which ſtill draw him, each will be in the Image, and bring his qua<g ref="char:EOLhyphen"/>lity into it as the inner fire, and alſo the external fire: The inner Kingdome of the fury, and alſo the outer earthly Kingdome of the Mirror of this world, and thus the true Image ſticketh in the midſt of the preſſure.</p>
+               <p n="25">25. For the Inner Kingdome will reveal the wonders through the externall.</p>
+               <p n="26">26. But becauſe it is too ſharpe, then the exter<g ref="char:EOLhyphen"/>nall kingdome flyeth from the Inner, and reacheth after the means, as after the Image which ſtandeth in the freedome of God, and ſo involveth her ſelf into the Image, for all reacheth after the heart of God, and after the Center of the Joy Kingdome.</p>
+               <p n="27">27. Now there lyeth a neceſſity upon the Image, to defend her ſelf, and not to let the earthly gueſt come in, much leſſe the fiery one, and yet it is born out of both, as the life out of the fire, and the won<g ref="char:EOLhyphen"/>ders out of the externall.</p>
+               <p n="28">28. Therefore it is much required of man that he lead a temperate ſober life, and not to be pampered too much with the externall Kingdome, elſe it ma<g ref="char:EOLhyphen"/>keth an habitation in the Noble Image.</p>
+               <p n="29">29. And herein we underſtand the mighty ſtrife in man, about Gods Image; for there are three which fight about her, as firſt, the ſevere fiery life, and then the Divine Life, and thirdly the earthly Life; thus the Noble Image ſticketh in the midſt and is drawn by theſe three.</p>
+               <p n="30">30. Now it is needful for him that he hide him<g ref="char:EOLhyphen"/>ſelf with Faith in the Myſterie of Hope, and let him ſtand ſtill in that Myſtery.</p>
+               <pb n="47" facs="tcp:118842:24"/>
+               <p n="31">31. Where the Devil in the Inner fiery life, ſtill rideth forth into the outer earthly life, in pride, covetouſneſs, and falſhood over the noble Image, and will bring her into the fire and anguiſh life, and breaks her.</p>
+               <p n="32">32. For he ſtill ſuppoſeth that the place of this world is his Kingdome, he will not endure any o<g ref="char:EOLhyphen"/>ther Image in it.</p>
+               <p n="33">33. Now falleth the Noble Image into Croſſes, Affliction, into Anguiſh and Miſery, and here be<g ref="char:EOLhyphen"/>longeth a ſtrif thereto, to fight about the Noble Garland of Gods Kingdome.</p>
+               <p n="34">34. Hence ariſe Prayers, that the Image goeth out continually out of the in-brought earthly Be<g ref="char:EOLhyphen"/>ing, and out of the proud helliſh abominations with praying, and ſtill entreth into Gods life in his Love.</p>
+               <p n="35">35. Thus the true Image ſtill Mortifieth the earthly <hi>Adam,</hi> and alſo the helliſh proud Devil, and muſt ſtill ſtand like a Warriour.</p>
+               <p n="36">36. And the moſt uſefull thing for her is, That ſhe wrap her ſelf up in patience, and throw her ſelf under the Croſs, and ſtil ſpring up in Love.</p>
+               <p n="37">37. For that Love is her ſword, wherewith ſhe ſtriketh at the Devil and expeleth the earthly Be<g ref="char:EOLhyphen"/>ing; ſhe hath never another ſword wherewith to de<g ref="char:EOLhyphen"/>fend her ſelf, but onely the meek water of eternall life, which doth not pleaſe the proud furious Spirit of fire, for it is poyſon unto him, and he flyeth from it.</p>
+               <p n="38">38. Now if we wil ſpeak rightly of the Tree of Chriſtian Faith then we ſay, its Root ſtandeth, in Myſtery of hope, its growth ſtandeth in Love, and
+<pb n="48" facs="tcp:118842:25"/>its Body in the comprehenſion of Faith.</p>
+               <p n="39">39. That is, where the Image preſſeth in, with her earneſt deſire into Gods Love, and comprehen<g ref="char:EOLhyphen"/>deth Gods entitie, that is, Chriſts Body, now this is the Body in which the Tree ſtandeth, groweth, and ſpringeth up, and beareth fruit in Patience, all theſe belong to the Angelicall World.</p>
+               <p n="40">40. They are the Food of the Soul on which ſhe feedeth and refreſheth her fiery life, that it is chang<g ref="char:EOLhyphen"/>ed into the light of meekneſs.</p>
+               <p n="41">41. And thus the Tree groweth in Gods Para<g ref="char:EOLhyphen"/>diſe, whom the outward man knoweth not, and no Reaſon comprehendeth it.</p>
+               <p n="42">42. But it is well known to the Noble Image, and is revealed unto her then when the externall life breaketh, and after him follow all his works in the Myſtery of hope, into which he hath ſowed.</p>
+               <p n="43">43. Therefore let all thoſe which travail like Pilgrimes in the Way of God, think that they muſt not look for good and jolly days in this world, in worldly honour for affliction, contempt and per<g ref="char:EOLhyphen"/>ſecution, will wait on them hourly.</p>
+               <p n="44">44. He is here onely in a vail of miſery, and muſt continually ſtand in the fight; For the Divel go<g ref="char:EOLhyphen"/>eth about him as a roaring Lyon, he raiſeth all his children of wickedneſs againſt him.</p>
+               <p n="45">45. He is counted a fool, his Brethren will not ac<g ref="char:EOLhyphen"/>knowledg him, his mothers houſe maketh a mock of him and deſpiſeth him.</p>
+               <p n="46">46. He goeth along, and ſoweth in affliction, and tormenteth himſelf; but there is no body which taketh notice of him, or that doth take it to heart: every one thinketh his own folly doth plague him ſo.</p>
+               <pb n="49" facs="tcp:118842:25"/>
+               <p n="47">47. Thus is he hid in the World, for he is not of the World with his noble Image, but is born out of God.</p>
+               <p n="48">48. He ſoweth in affliction and reapeth in Joy, but who can expreſſe his Glory which he hath to receive for a reward? Or who can ſpeak of the victorious Garland which he getteth?</p>
+               <p n="49">49. Who can expreſs the Crown of the Virgin of Gods wiſdom which the Virgin of Gods wiſdom putteth on him? Where is ſuch a beauty which exceedeth Heaven?</p>
+               <p n="50">50. O Noble Image, art thou not an Image of Gods holy Trinity, in whom God himſelf dwel<g ref="char:EOLhyphen"/>eth? God putteth on thee his faireſt ornament that thou ſhouldeſt rejoyce in him eternally.</p>
+               <p n="51">51. What is the Being of this World, it is cor<g ref="char:EOLhyphen"/>ruptible and bringeth man only into anguiſh, per<g ref="char:EOLhyphen"/>plexity and miſery, beſides into Gods wrath, and breaketh the fair Image in him, and puts a vizard on him?</p>
+               <p n="52">52. O What a ſhame will it be unto that man who ſhall appear on the Judgment day of God with a beaſtly Image, beſides that what followeth, in which he is to abide for ever!</p>
+               <p n="53">53. Here begins a <hi>penitet me,</hi> it repenteth me, here will be the ſighiug and howling about the loſt talent which may never be attained unto.</p>
+               <p n="54">54. Where the Image ſhall ſtand in eternity before the Devils, and do what the terrible Prince Lucifer will have.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="50" facs="tcp:118842:26"/>
+               <head>The Eighth Chapter.</head>
+               <p n="1">1. MY dear ſeeking and deſirous mind which art hungry and thirſty after Gods King<g ref="char:EOLhyphen"/>dom, pray take notice of the ground which is ſhew-unto thee.</p>
+               <p n="2">2. It is not ſo eaſie a matter to become the Child of God, as <hi>Babell</hi> teacheth, where Conſciences are lead into Hiſtories, and are courteouſly tickled with Chriſts ſufferings and death, where Remiſſion of ſins is taught Hiſtorically.</p>
+               <p n="3">3. Like unto a worldly judgment, where a mans crime is remitted graciouſly though the man abide a Rogue in his heart; but it is no ſuch thing here.</p>
+               <p n="4">4. God will not have hippocrites, he doth not take away ſins from us, becauſe we depend upon knowledg, and comfort our ſelves with Chriſts ſufferings, and abide yet in our conſciences in the Abominations.</p>
+               <p n="5">5. It is ſaid you muſt be new born again or you ſhall not ſee the Kingdom of God.</p>
+               <p n="6">6. That a man ſhould pleaſe himſelf with Chriſts ſufferings and death and apply it unto him, but is unregenerated, with his will, in the <hi>Adamical</hi> will, he doth as one who comforteth himſelf, that his lord will beſtow his land upon him, not conſider<g ref="char:EOLhyphen"/>ing that he is not his ſon, and he hath promiſed that his ſon alone ſhould have it, as it is here.</p>
+               <p n="7">7. If thou wilt poſſeſſe thy lords land and have
+<pb n="51" facs="tcp:118842:26"/>it for a propriation, then you muſt become a true ſon unto him, for the ſon of the maid-ſervant doth not inherit with the free born, the ſon of the Hiſtory is a ſtranger.</p>
+               <p n="8">8. Thou muſt be born out of God in Chriſt, that you be a natural ſon, then art thou the Child of God and an heir of the ſufferings and death of Chriſt.</p>
+               <p n="9">9. And Chriſts death is thy death, his reſurrec<g ref="char:EOLhyphen"/>tion out of the grave is thy reſurrection, his aſ<g ref="char:EOLhyphen"/>cenſion into Heaven is thy aſcenſion, and his eter<g ref="char:EOLhyphen"/>nal Kingdom is thy Kingdom.</p>
+               <p n="10">10. If thou art born his true ſon out of his fleſh and blood, then art thou an heyr of all his Goods, elſe thou canſt not be Chriſts Child and heyr.</p>
+               <p n="11">11. As long as the earthly Kingdom ſticketh in thine Image, then art thou the earthly of corrupted <hi>Adam,</hi> no hippocriſy avai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth, give as good words as thou wilt.</p>
+               <p n="12">12, Yet art thou a ſtranger and Gods Goods do not belong unto thee unleſs thou returneſt with the loſt ſon unto the Father, with a true repentance for thy loſt Inheritance.</p>
+               <p n="13">13. Thou muſt go out with thy ſpirit of thy will out of the earthly life, and break the earthly will which payneth the minde and the ſpirit of the will, as to forſake a poſſeſt Treaſure in which the ſpirit of the will was born, and thou muſt enter into Gods Will.</p>
+               <p n="14">14. There you ſow your ſeed into Gods King<g ref="char:EOLhyphen"/>dom, &amp; art new born in God as a fruit which grow<g ref="char:EOLhyphen"/>eth on Gods Acre, for thy will receiveth Gods Power, Chriſts body, and a new body groweth unto thee in God.</p>
+               <pb n="52" facs="tcp:118842:27"/>
+               <p n="15">15. Then art thou Gods child, and Chriſts goods belong unto thee, and his merit is thy merit, his ſufferings, death and reſurrection all thine; thou art a member of his body, and his Spirit is thy Spi<g ref="char:EOLhyphen"/>rit, and guideth thee on the true way, and whatſoe<g ref="char:EOLhyphen"/>ver thou doſt, thou doſt it to God.</p>
+               <p n="16">16. Thou ſoweſt in this World and reapeſt in Gods Heaven, thou art Gods wonder work, and revealeſt in the earthly life his wonders and draweſt them with thy ſpirit of thy will into the holy Myſtery.</p>
+               <p n="17">17. Thus obſerve it ye coveteous, ye proud, ye envious, ye falſe Judges, ye wicked men, which bring your wills and deſires into earthly goods, into monies, into pleaſures of this World, and money and goods you eſteem to be your treaſure, and you ſet your deſire upon them and yet you would be ac<g ref="char:EOLhyphen"/>counted Gods children.</p>
+               <p n="18">18. You ſtand and diſſemble before God as if he remitteth the ſins and you continue with your I<g ref="char:EOLhyphen"/>mage in <hi>Adams</hi> coat, in <hi>Adams</hi> fleſh you comfort your ſelves with Chriſts ſufferings, and you are me er hippocrites.</p>
+               <p n="19">19. You are not Gods children, you muſt be new born in God if you will be children, otherwiſe you deceive your ſelves with your diſſembling, which paint to you a falſe colour.</p>
+               <p n="20">20. They teach, and are not known of God, nei<g ref="char:EOLhyphen"/>ther are they ſent to teach, they do it for the bellies ſake, and for worldly honours ſake, and are the great whores in <hi>Babel,</hi> which diſſemble with God with their lips, and with the heart and ſpirit of the willl they ſerve the Dragon in <hi>Babel.</hi>
+               </p>
+               <pb n="53" facs="tcp:118842:27"/>
+               <p n="21">21. Dear Mind; if thou wilt be Gods Child, then prepare thy ſelf for Temptation and affliction; it is not eaſie to enter into a childs life, eſpecially if Reaſon lyeth captivated in the earthly kingdom.</p>
+               <p n="22">22. She muſt be broken and the will muſt be gone from Reaſon, he muſt ſow himſelf into Gods Kingdom, in a humble obedience, as Corn is ſow<g ref="char:EOLhyphen"/>ed into an Acre; he muſt make himſelf in Reaſon as dead, and ſubmit unto God, then the new Fruit grows in Gods Kingdom:</p>
+               <p n="23">23. Thus man ſtandeth in a Threefold life, and all belongeth unto God.</p>
+               <p n="24">24. The Inner fiery Eſſences of the firſt Princi<g ref="char:EOLhyphen"/>ple are incorrporated with the new Body in Chriſt, that they ſpring up in Chriſts Fleſh and Blood out of Gods Will, and their Fire is Gods Fire, out of which burneth Love, Meekneſs and Humility.</p>
+               <p n="25">25. Where the Holy Spirit goeth forth and helpeth him in the Combate againſt earthly Reaſon, al<g ref="char:EOLhyphen"/>ſo againſt the corrupt fleſh and the Devils will; his yoke of the Earthly will groweth eaſier unto him; but he muſt continue in the fight of this world.</p>
+               <p n="26">26. For unto the Earthly life, belongeth ſuſte<g ref="char:EOLhyphen"/>nance, which he muſt ſeek, but muſt not hang his will and heart thereon.</p>
+               <p n="27">27. He muſt put his confidence in God, and his Earthly Reaſon, ſtill ſteppeth into doubt, that he will come ſhort, ſhe will always ſee God, and yet cannot, or God does not dwell in an Earthly King<g ref="char:EOLhyphen"/>dom; but in himſelf.</p>
+               <p n="28">28. Thus Reaſon muſt be forced into hope be<g ref="char:EOLhyphen"/>cauſe ſhe cannot ſee God.</p>
+               <p n="29">29. There Doubt runneth againſt Faith, and
+<pb n="54" facs="tcp:118842:28"/>will deſtroy Hope, then the earneſt Will muſt fight with the true Image, againſt the Earthly Reaſon, here it doth ſmart, and great ſadneſs enſueth, eſpe<g ref="char:EOLhyphen"/>cially if Reaſon looketh on the courſe of this world and thinketh her ſpirit of her will to be fooliſh, in regard of the courſe of this world.</p>
+               <p n="30">30. Here it is ſayd, Be Sober, Watch, Faſt, and Pray; that is ſubdue the Earthly Reaſon, and mortifie her, that Gods Spirit may find place in you.</p>
+               <p n="31">31 If he appeareth he ſoon overcometh Earthly Reaſon and looketh on the will in the anguiſh, with his love and ſweetneſs, where always is begotten a fair twig out of the Tree of Faith.</p>
+               <p n="32">32. And all tribulation and affliction ſerveth for the good of Gods Children; for as often as God permitteth him to be brought into anguiſh and cala<g ref="char:EOLhyphen"/>mities, then they always ſtand in the Birth of a new twig out of the Tree of Faith.</p>
+               <p n="33">33. When the Spirit of God appeareth again, then he always rayſeth a new growth, at which the Noble Image highly rejoyceth.</p>
+               <p n="35">35. The firſt ſerious aſſault muſt do it, that the Earthly Tree may be conquered, and the Noble Corn be ſowed into Gods Acre, that it may learn to know the Earthly man.</p>
+               <p n="35">35. For when the Will of God receiveth light, then the mirrour beholdeth it ſelf, the one eſſence ſeeth the other in the light, and thus the whole man finds himſelf in himſelf, and knoweth what he is, which he cannot know in the earthly Reaſon.</p>
+               <pb n="55" facs="tcp:118842:28"/>
+               <p n="36">36. Therefore let no man think that the Tree of Chriſtian Faith is ſeen or known in the Kingdom of this World, external Reaſon doth not know it.</p>
+               <p n="37">37. Although the fair Tree ſtandeth in the inner man, yet the outer earthly Reaſon doubteth of it, for the Spirit of God is a folly to her becauſe ſhe cannot comprehend him.</p>
+               <p n="38">38. And although it happeneth, that many times the Holy Ghoſt revealeth himſelf in the external mirrour (or glaſſe) that the outward life rejoyceth much at it, and quaketh for Joy and ſuppoſeth, now have I gotten that worthy gueſt, now I will beleeve it, yet there is no perfect conſtancy in it.</p>
+               <p n="39">39. For the Spirit of God perſevereth not al<g ref="char:EOLhyphen"/>ways in the earthly quality he muſt have a pure veſ<g ref="char:EOLhyphen"/>ſel; and if he goeth into his principle as into the true I mage, then the external life groweth puſil<g ref="char:EOLhyphen"/>animous and timerous.</p>
+               <p n="40">40. Therefore the noble Image muſt ſtill be in fight aginſt the external life of Reaſon the more ſhe fighteth, the greater groweth the fair Tree, be<g ref="char:EOLhyphen"/>cauſe ſhe worketh with God.</p>
+               <p n="41">41. For as an earthly tree groweth in wind, rain, cold, and heat, ſo doth the Tree of the I<g ref="char:EOLhyphen"/>mage of God under croſſes and tribulation anguiſh, and torment in ignominy and contempt and ſpring<g ref="char:EOLhyphen"/>eth up in Gods Kingdom, and in patience beareth fruit.</p>
+               <p n="42">42. We knowing thus much, let us ſtrive for it, not to be kept back by any fear or terrour, becauſe we ſhall enjoy it eternally and reap that what we
+<pb n="56" facs="tcp:118842:29"/>have ſowed in anguiſh and pain, which will be an eternal comfort to us:</p>
+               <closer>Amen.</closer>
+               <trailer>Finis hujus tractatûs.</trailer>
+            </div>
+            <closer>
+               <date>
+                  <hi>Anno</hi> 1620 <hi>menſe Maji.</hi>
+               </date> Soli Deo Gloria.</closer>
+            <byline>Written by the Author JACOB BEHMEN.</byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
